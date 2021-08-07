@@ -1,7 +1,9 @@
-# bombastic
+# My Kotlin PlayGround
+"<i class="fa fa-book fa-fw"></i> Book Mode".
 
-## Collection of some sample projects
+Sites
+---
+- [Help](/HELP.md)
 
-Technologies: Java, Kotlin, Spring Boot, Nodejs, Android,...
 
-[Help](../master/HELP.md) 
+###### tags: `Kotlin`
