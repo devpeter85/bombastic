@@ -4,4 +4,6 @@
 
 Technologies: Java, Kotlin, Spring Boot, Nodejs, Android,...
 
-[Help](../HELP.md) 
+[Help](../master/HELP.md) 
+
+[I'm a relative reference to a 
