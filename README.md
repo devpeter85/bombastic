@@ -4,4 +4,4 @@
 
 Technologies: Java, Kotlin, Spring Boot, Nodejs, Android,...
 
-[Help](./HELP.MD)
+[Help](.HELP.md) 
